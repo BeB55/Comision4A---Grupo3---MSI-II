@@ -4,4 +4,8 @@ Integrantes y aportes
 
 Micaela Ybarra
 MikYY8
-Colaboradora - Creé una rama propia, creé un archivo con informacion personal, y pedí un pull request para fusionar a la rama main. 
+Colaboradora - Creé una rama propia, creé un archivo con informacion personal, y pedí un pull request para fusionar a la rama main.
+
+Brian  Baptista
+BeB55
+Lider del grupo - Creé mi rama propia junto a un archivo con informacion personal, acepte los pull request de los colaboradores.
