@@ -1,0 +1,3 @@
+Alumno, hijo de Dios, amante de los videojuegos  > integrante_baptista.txt
+git add
+echo Alumno, hijo de Dios, amante de los videojuegos
